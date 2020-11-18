@@ -29,7 +29,7 @@
     <body>
         <xsl:for-each select="list/directory">
           <p>
-            <a href="{.}">Fluxplane Run <xsl:value-of select="." /></a>
+            <a href="{.}">Directory: <xsl:value-of select="." /></a>
           </p>
         </xsl:for-each>
         <xsl:for-each select="list/file">
