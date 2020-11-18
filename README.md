@@ -8,6 +8,8 @@ This service allows a user to browse the contents of directories as galleries
 with image thumbnails. Each thumbnail also links to the image directly to show
 it fullsize.
 
+![Screenshot](/screenshot.PNG?raw=true "Screenshot")
+
 
 Instructions
 ------------
